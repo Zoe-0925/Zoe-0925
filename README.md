@@ -5,13 +5,9 @@
 
 ### Let me introduce my personal projects!
 ### Front End
-| Technology | Demo |Link|
+| Technology | Demo | Link |
 | ----------- | ----------- |
 | React.js |  |![alt text](https://github.com/Zoe-0925/E-Commerce-React-Redux-Saga-Node.js-MySQL-Frontend/blob/master/public/Demo-2.png)| https://github.com/Zoe-0925/E-Commerce-React-Redux-Saga-Node.js-MySQL-Frontend |
-| Swagger API Documentation | Documented the API and multiple error response codes |
-| OOP and DI | Abstracted duplicated codes into middlewares |
-| React.js Hooks| Seperate reusable view components from hooks to ensure testability |
-| SASS | Moduarlized and extendable style sheets management for for efficient UI styling update |
 
 ### Back End
 | Technology | Demo |Link|
