@@ -1,6 +1,6 @@
 ### Hi there 👋 , welcome to my full-stack developer learning Journey!
 
-### 🔭 I’m currently working on back end development in microservices in Node.js, Express and MongoDB.
+### 🔭 I’m currently working on API microservices in Node.js, Express and MongoDB.
 
 ### Let me introduce my personal projects!
 ### Front End
