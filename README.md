@@ -5,7 +5,7 @@
 #### 🔭 I’m proficient in the MERN stack and also comfortable in the Java Spring and .Net Core.
 <br/>
 
-### Here are some personal projects during self-learning.
+### Here are some self-taught projects.
 1. [ Front End Projects ](#FrontEnd)
 2. [ Back End Projects ](#BackEnd) 
 
