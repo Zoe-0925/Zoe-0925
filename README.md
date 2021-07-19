@@ -2,8 +2,9 @@
 
 #### 🔭 I’m currently working on 👯API microservices👯 in Node.js, Express and MongoDB on AWS.
 #### 😄 I’m proficient in the MERN stack and also comfortable in Java Spring Boot and .Net Core.
+
 <br/>
-<br/>
+
 ### Here are some self-taught projects.
 1. [ Front End Projects ](#FrontEnd)
 2. [ Back End Projects ](#BackEnd) 
