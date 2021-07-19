@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 , welcome to my full-stack developer learning Journey!
+
+
 
 <!--
 **Zoe-0925/Zoe-0925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
