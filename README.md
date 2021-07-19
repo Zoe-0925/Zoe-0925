@@ -7,7 +7,7 @@
 ### Front End
 | Technology | Demo | Link |
 | ----------- | ----------- | ----------- |
-| React.js |  |![alt text](https://github.com/Zoe-0925/E-Commerce-React-Redux-Saga-Node.js-MySQL-Frontend/blob/master/public/Demo-2.png)| https://github.com/Zoe-0925/E-Commerce-React-Redux-Saga-Node.js-MySQL-Frontend |
+| React.js |![alt text](https://github.com/Zoe-0925/E-Commerce-React-Redux-Saga-Node.js-MySQL-Frontend/blob/master/public/Demo-2.png)| https://github.com/Zoe-0925/E-Commerce-React-Redux-Saga-Node.js-MySQL-Frontend |
 
 ### Back End
 
