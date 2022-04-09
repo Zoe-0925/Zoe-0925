@@ -1,7 +1,7 @@
 ### Hi there 👋 , welcome to my full-stack developer learning journey!
 
-#### 🔭 I’m currently working on 👯API microservices👯 in Node.js, Express and MongoDB on AWS.
-#### 😄 I’m proficient in the MERN stack and also comfortable in Java Spring Boot and .Net Core.
+#### 🔭 I’m currently working on 👯API microservices👯 in Java Spring Boot and Node.js on AWS.
+#### 😄 I’m proficient in the Java Spring Boot and MERN stack, also comfortable in .Net Core.
 
 <br/>
 
