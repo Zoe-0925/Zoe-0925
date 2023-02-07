@@ -1,9 +1,12 @@
 ### Hi there 👋 , welcome to my full-stack developer learning journey!
 
-#### 🔭 I’m currently working on 👯API microservices👯 in Java Spring Boot and Node.js on AWS.
+#### 🔭 I’m currently working on Kubernetes configurations, DevOps automation, 👯API microservices👯 in Java Spring Boot and Node.js on AWS.
 #### 😄 I’m proficient in the Java Spring Boot and MERN stack, also comfortable in .Net Core.
 
 <br/>
+
+### Here are some self-taught Cloud technologies:
+- [Kubernetes CKA Certification Study](https://github.com/Zoe-0925/Kubernetes-Study/tree/main/CKA-Certification-Study-Notes)
 
 ### Here are some self-taught projects.
 1. [ Front End Projects ](#FrontEnd)
