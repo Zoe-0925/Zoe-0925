@@ -2,6 +2,7 @@
 
 #### 🔭 My skillsets include:
      👯API microservices👯 in Java Spring Boot and Node.js on AWS
+     React.js Front-end development
      Kubernetes
      DevOps automation, CI/CD pipelines, Python Scripts
 #### 😄 I’m proficient in the Java Spring Boot and MERN stack, also comfortable in .Net Core.
