@@ -6,7 +6,7 @@
 <br/>
 
 ### Here are some self-taught Cloud technologies:
-- [Kubernetes CKA Certification Study](https://github.com/Zoe-0925/Kubernetes-Study/tree/main/CKA-Certification-Study-Notes)
+- [Kubernetes CKA Certification Hands-on Codes](https://github.com/Zoe-0925/Kubernetes-Study/tree/main/CKA-Certification-Study-Notes)
 
 ### Here are some self-taught projects.
 1. [ Front End Projects ](#FrontEnd)
