@@ -5,6 +5,7 @@
      React.js Front-end development
      Kubernetes, Helm, GitOps
      DevOps automation, CI/CD pipelines, Python & Shell Scripts
+     Algorithm & Data Structures
 #### 😄 I’m proficient in the Java Spring Boot and MERN stack, also comfortable in .Net Core.
 
 <br/>
