@@ -1,6 +1,9 @@
 ### Hi there 👋 , welcome to my full-stack developer learning journey!
 
-#### 🔭 I’m currently working on Kubernetes configurations, DevOps automation, 👯API microservices👯 in Java Spring Boot and Node.js on AWS.
+#### 🔭 My skillsets include:
+     👯API microservices👯 in Java Spring Boot and Node.js on AWS
+     Kubernetes
+     DevOps automation, CI/CD pipelines, Python Scripts
 #### 😄 I’m proficient in the Java Spring Boot and MERN stack, also comfortable in .Net Core.
 
 <br/>
