@@ -1,12 +1,12 @@
 ### Hi there 👋 , welcome to my full-stack developer | DevOps learning journey!
 
 #### 🔭 My skillsets include:
-     👯API microservices👯 in Java Spring Boot and Node.js on AWS
+     👯API microservices👯 in Java Spring Boot, Node.js, TypeScript and C# on AWS
      React.js Front-end development
      Kubernetes, Helm, GitOps
      DevOps automation, CI/CD pipelines, Python & Shell Scripts
      Algorithm & Data Structures
-#### 😄 I’m proficient in the Java Spring Boot and MERN stack, also comfortable in .Net Core.
+#### 😄 I’m proficient in the Java Spring Boot and MERN stack, and also comfortable in .Net Core.
 
 <br/>
 
